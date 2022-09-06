@@ -1,0 +1,66 @@
+.bg-1{
+    background-color: rgb(85, 130, 228);
+    background-image: url('shattered-island.jpeg');
+}
+
+.container-fluid{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.bg-2{
+    background-color: rgb(78, 78, 78);
+}
+
+.bg-3{
+    background-color: rgb(255, 255, 255);
+}
+
+.workImg1{
+    height: 450px;
+    width: 300px;
+    padding-top: 15px;
+    
+}
+
+.workImg2{
+    height: 450px;
+    width: 475px;
+    padding-top: 15px;
+    
+}
+
+.workImg3{
+    height: 450px;
+    width: 350px;
+    padding-top: 15px;
+    
+}
+
+
+.spacer{
+    padding-bottom: 30px;
+}
+
+h1 {
+    font-size: 5em;
+}
+
+.cameronHeadshot{
+    height: 500px;
+    width: 375px;
+}
+
+strong:hover{
+    color: orange;
+}
+
+a{
+    text-decoration: none;
+   
+}
+
+.fa{
+    width: 20px;
+    height: 20px;
+}
